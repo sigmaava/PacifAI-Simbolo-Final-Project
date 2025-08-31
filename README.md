@@ -1,7 +1,7 @@
 # Project Title
 Misinformation, Violence and Hate Speech Detection
 
-Supervised by: Sir Phyo Thu Htet 
+Supervised by: Sir Phyo Thu Htet <br>
 Mentored by: Ma Thant Thiri Maung
 
 ## Contributors
